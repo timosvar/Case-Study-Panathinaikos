@@ -1,6 +1,6 @@
 # Panathinaikos SuperLeague Analysis 2024–2025
 
-![Panathinaikos Logo](pao-logo.png)
+![Panathinaikos Logo](images/pao-logo.png)
 
 ## Project Overview
 
@@ -43,7 +43,7 @@ git clone https://github.com/timosvar/Case-Study-Panathinaikos.git
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](images/dashboard.png)
 
 ## Credits
 
