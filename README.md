@@ -1,7 +1,5 @@
 # Panathinaikos SuperLeague Analysis 2024–2025
 
-![Panathinaikos Logo](images/pao-logo.png)
-
 ## Project Overview
 
 This project presents a Power BI dashboard analyzing the performance of Panathinaikos FC during the Greek Super League 2024–2025 season.
